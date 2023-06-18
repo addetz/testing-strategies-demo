@@ -1,0 +1,32 @@
+{
+  "events":[
+    {
+      "id": "ewit-2023",
+      "name": "European Women in Tech",
+      "date_start": "28/06/2023",
+      "date_end": "29/06/2023",
+      "location": "Amsterdam"
+    },
+    {
+      "id": "devbcn-2023",
+      "name": "DevBcn - The Barcelona Developers Conference",
+      "date_start": "03/07/2023",
+      "date_end": "05/07/2023",
+      "location": "Barcelona"
+    },
+    {
+      "id": "gopherconuk-2023",
+      "name": "GopherCon UK",
+      "date_start": "16/08/2023",
+      "date_end": "18/08/2023",
+      "location": "London"      
+    },
+    {
+      "id": "cphdevfest-2023",
+      "name": "Copenhagen Developers Festival",
+      "date_start": "30/08/2023",
+      "date_end": "01/09/2023",
+      "location": "Copenhagen"      
+    }
+  ]
+}

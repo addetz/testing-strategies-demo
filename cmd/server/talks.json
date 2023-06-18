@@ -1,0 +1,338 @@
+{
+  "talks": [
+    {
+      "event_id": "ewit-2023",
+      "title": "Future-Proofing Tech Through Inclusion & Diversity",
+      "speakers": [
+        "Kristin Shulman",
+        "Maja Borota-Nedic",
+        "Molly Stevens",
+        "Lalli Varadh"
+      ],
+      "date": "28/06/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "How To Attract Talent During The Greatest Tech Revolution Ever",
+      "speakers": [
+        "Karen de Lathouder"
+      ],
+      "date": "28/06/2023",
+      "time": "09:30"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "The Digital Symphony: Orchestrating End-to-End Business Transformation",
+      "speakers": [
+        "Maja Schreiner",
+        "Gabriela Cadenas"
+      ],
+      "date": "28/06/2023",
+      "time": "10:00"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "How To Outcompete In The Age Of Digital And AI ",
+      "speakers": [
+        "Kate Smaje"
+      ],
+      "date": "28/06/2023",
+      "time": "10:30"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Empowering Yourself: The Key To Building A Thriving Career",
+      "speakers": [
+        "Fatima Fares"
+      ],
+      "date": "28/06/2023",
+      "time": "11:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Collaboration, Creativity, And Connection: Bringing To Work What AI Cannot",
+      "speakers": [
+        "Kat Judd"
+      ],
+      "date": "28/06/2023",
+      "time": "11:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Empowering Women In Tech: Challenges, Opportunities, And Strategies For Success",
+      "speakers": [
+        "Agathe Engelman",
+        "Natasha Govender-Ropert",
+        "Bahar Savas",
+        "Sheila Gemin"
+      ],
+      "date": "28/06/2023",
+      "time": "11:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "AI Everywhere: Leveraging Data For A Unified Fintech Solution",
+      "speakers": [
+        "Akhila Vanguard"
+      ],
+      "date": "28/06/2023",
+      "time": "11:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Building A Blueprint For Hiring Tomorrow's Tech Talent",
+      "speakers": [
+        "Anna Brailsford"
+      ],
+      "date": "28/06/2023",
+      "time": "11:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Secure Your Hybrid/Multi-Cloud Environment With These Achievable Steps",
+      "speakers": [
+        "Venicia Solomons"
+      ],
+      "date": "28/06/2023",
+      "time": "11:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "What's Next For IT & How Do We Lead Into The Future",
+      "speakers": [
+        "Christine Ashton"
+      ],
+      "date": "28/06/2023",
+      "time": "12:10"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "The Rise Of AI ",
+      "speakers": [
+        "Ayesha Iqbal"
+      ],
+      "date": "28/06/2023",
+      "time": "12:10"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "How To Create An Impactful Engineering Team By Pushing Back The Barriers Of Tech Recruiting",
+      "speakers": [
+        "Pooneh Mokariasl",
+        "Estelle Thou"
+      ],
+      "date": "28/06/2023",
+      "time": "12:10"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "The Dangers Of Succumbing To Cognitive Biases In Cyber Security",
+      "speakers": [
+        "Hanah-Marie Darley"
+      ],
+      "date": "28/06/2023",
+      "time": "12:10"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "How Technology Is Enabling Inclusive Product Development",
+      "speakers": [
+        "Dr Emmanuelle Savarit"
+      ],
+      "date": "28/06/2023",
+      "time": "12:45"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Disrupt Or Be Disrupted: Embracing Change To Thrive In The New Frontiers Of Technology",
+      "speakers": [
+        "Janet Maldonado"
+      ],
+      "date": "28/06/2023",
+      "time": "12:45"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Blockchain And Crypto Exchange As A Gateway",
+      "speakers": [
+        "Dorina Juhász",
+        "Ksenia Kolpakova"
+      ],
+      "date": "28/06/2023",
+      "time": "12:45"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "From Engineering Manager To Director: What Does It Take?",
+      "speakers": [
+        "Isabel Vilacides"
+      ],
+      "date": "28/06/2023",
+      "time": "12:45"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "ChatGPT, OpenAI, Bard...Could An Artificial General Intelligence Be Created? Should We Be Worried, Excited Or Both?",
+      "speakers": [
+        "Vanessa Araujo",
+        "Adelina Balasa"
+      ],
+      "date": "28/06/2023",
+      "time": "12:45"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Generative AI: The New Industrial Revolution?",
+      "speakers": [
+        "Melanie McGrory"
+      ],
+      "date": "28/06/2023",
+      "time": "14:00"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Impact Investing Landscape In Europe",
+      "speakers": [
+        "Janneke Niessen"
+      ],
+      "date": "28/06/2023",
+      "time": "14:20"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Why Should You Scale Bottom-Up In Your Organization?",
+      "speakers": [
+        "Vânia Santos"
+      ],
+      "date": "28/06/2023",
+      "time": "14:20"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Digital Transformation: What's New?",
+      "speakers": [
+        "Bidisha Agarwal"
+      ],
+      "date": "28/06/2023",
+      "time": "14:20"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "The Hackers Guide To Kubernetes",
+      "speakers": [
+        "Patrycja Wegrzynowicz"
+      ],
+      "date": "28/06/2023",
+      "time": "14:55"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Responsible AI: Get Inspired To Use Digital Ethics by Design",
+      "speakers": [
+        "Judith van Schie"
+      ],
+      "date": "28/06/2023",
+      "time": "14:55"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Delivering World Class Products With Limited Resources",
+      "speakers": [
+        "Lisa Pickett"
+      ],
+      "date": "28/06/2023",
+      "time": "15:30"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Why Do Most AI Models Fail?",
+      "speakers": [
+        "Violeta Misheva"
+      ],
+      "date": "28/06/2023",
+      "time": "16:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Understanding HR To Land Your Dream Job In Tech",
+      "speakers": [
+        "Lisa Brauner"
+      ],
+      "date": "28/06/2023",
+      "time": "16:45"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Tackling Humanity’s Toughest Challenges With Frontier Technologies",
+      "speakers": [
+        "Marieke Mulder"
+      ],
+      "date": "28/06/2023",
+      "time": "15:45"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Building For Two Audiences: Artists & Fans",
+      "speakers": [
+        "Agustina Sacerdote"
+      ],
+      "date": "28/06/2023",
+      "time": "15:45"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Speak With Intent: Communication In The New Era",
+      "speakers": [
+        "Frederique Liaigre"
+      ],
+      "date": "28/06/2023",
+      "time": "15:45"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "How To Prepare Yourself For Big Career Decisions",
+      "speakers": [
+        "Elizabeth Theophille"
+      ],
+      "date": "28/06/2023",
+      "time": "15:10"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Enabling A Better Map For Location Services: Overture And The TomTom Maps Platform",
+      "speakers": [
+        "Ana Lira"
+      ],
+      "date": "28/06/2023",
+      "time": "15:10"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Don't Dream It, Be It: How to Be Truly Diverse And Inclusive In Tech",
+      "speakers": [
+        "Tanja Antonijevic"
+      ],
+      "date": "28/06/2023",
+      "time": "15:10"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "The Future Of Work: What Now?",
+      "speakers": [
+        "Delphine Donné"
+      ],
+      "date": "28/06/2023",
+      "time": "14:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Leading Through Uncertainty With Authenticity To Deliver Business Goals & Employee Happiness",
+      "speakers": [
+        "Eve Henrikson"
+      ],
+      "date": "28/06/2023",
+      "time": "14:35"
+    }
+  ]
+}
