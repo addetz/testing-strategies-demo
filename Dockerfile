@@ -1,4 +1,4 @@
-FROM golang:1.19.5-alpine3.17 as build
+FROM golang:1.19.10-alpine3.17 as build
 
 ENV GOPATH /go
 
@@ -10,7 +10,7 @@ RUN go mod download
 
 RUN go mod tidy
 
-RUN go build ./cmd/server -ldflags "-s -w" -o server
+RUN go build -o server ./cmd/server
 
 RUN chmod +x server
 
