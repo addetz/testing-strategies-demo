@@ -333,6 +333,2072 @@
       ],
       "date": "28/06/2023",
       "time": "14:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Product Led Transformation",
+      "speakers": [
+        "Maite Zubiaurre"
+      ],
+      "date": "29/06/2023",
+      "time": "10:00"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Entrepreneurship At The Heart of Disruptive Innovation",
+      "speakers": [
+        "Camilla Larsson",
+        "Wim Blaauw"
+      ],
+      "date": "29/06/2023",
+      "time": "10:30"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Technology Vision 2023: When Atoms Meet Bits: The Foundations Of Our New Reality",
+      "speakers": [
+        "Katrien Jacobs"
+      ],
+      "date": "29/06/2023",
+      "time": "11:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Panel: Building The Future - Delivering A Digital Evolution",
+      "speakers": [
+        "Wei Li",
+        "Elly An de Boer",
+        "Emma Song"
+      ],
+      "date": "29/06/2023",
+      "time": "11:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Panel: How Can Gender Equity Drive Growth In Technology",
+      "speakers": [
+        "Linda Buytaert",
+        "Sophie de Kermel",
+        "Janet van de Reepe",
+        "Sarah Pilcer"
+      ],
+      "date": "29/06/2023",
+      "time": "11:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Applying Data-Driven Decisions Across Team Roles",
+      "speakers": [
+        "Natalia Beliaeva"
+      ],
+      "date": "29/06/2023",
+      "time": "11:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Debunking Myths On Software Quality Engineering",
+      "speakers": [
+        "Renka Pooja"
+      ],
+      "date": "29/06/2023",
+      "time": "11:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Security In The Hybrid/Multi Cloud Era",
+      "speakers": [
+        "Sunna Björg"
+      ],
+      "date": "29/06/2023",
+      "time": "11:35"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Empowering Agency & Community Through Web3 And NFTs",
+      "speakers": [
+        "Emily Loh"
+      ],
+      "date": "29/06/2023",
+      "time": "12:10"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Comprehensive Testing Strategies For Modern Microservice Architectures",
+      "speakers": [
+        "Adelina Simion"
+      ],
+      "date": "29/06/2023",
+      "time": "12:10"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Building An Enterprise Platform",
+      "speakers": [
+        "Gudrun Anna Atladottir"
+      ],
+      "date": "29/06/2023",
+      "time": "12:10"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Future Proofing Architecture: Ensuring Technical Success",
+      "speakers": [
+        "Victoria Bunyard"
+      ],
+      "date": "29/06/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "How To Tackle Current Challenges In Agriculture With Digital Tools",
+      "speakers": [
+        "Dr. Aline Nink"
+      ],
+      "date": "29/06/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Lessons For Cultivating Successful New Teams",
+      "speakers": [
+        "Veronica Peterson"
+      ],
+      "date": "29/06/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "From Legacy To Unified: Streamlining Data Operations For Modern Business",
+      "speakers": [
+        "Charlotte van der Scheun"
+      ],
+      "date": "29/06/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "The Power Of Ikigai (生き甲斐) In IT Business",
+      "speakers": [
+        "Ekaterina Serban"
+      ],
+      "date": "29/06/2023",
+      "time": "14:15"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Unlocking The Power Of Purpose Led Transformation",
+      "speakers": [
+        "Julia Palle"
+      ],
+      "date": "29/06/2023",
+      "time": "14:15"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Scalable Teams For Security And Velocity",
+      "speakers": [
+        "Sarah Polan"
+      ],
+      "date": "29/06/2023",
+      "time": "14:15"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "Embracing Platform Engineering",
+      "speakers": [
+        "Bukola Johnson"
+      ],
+      "date": "29/06/2023",
+      "time": "14:15"
+    },
+    {
+      "event_id": "ewit-2023",
+      "title": "AI At Work ",
+      "speakers": [
+        "Isabell Welpe"
+      ],
+      "date": "29/06/2023",
+      "time": "14:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Building Performant Applications at Scale with Qwik-City",
+      "speakers": [
+        "Miško Hevery"
+      ],
+      "date": "03/07/2023",
+      "time": "11:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Aprendiendo a gestionar... por las bravas",
+      "speakers": [
+        "Pablo Bouzada"
+      ],
+      "date": "03/07/2023",
+      "time": "11:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "About Giants, Liars and Slow Pokes...A (Unit-) Test-Antipattern-Fairytale",
+      "speakers": [
+        "Birgit Kratz"
+      ],
+      "date": "03/07/2023",
+      "time": "11:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "5 tips to make your Java apps more awesome",
+      "speakers": [
+        "Rustam Mehmandarov"
+      ],
+      "date": "03/07/2023",
+      "time": "11:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Cassandra Made Easy: Interact with your Data using Stargate HTTP APIs",
+      "speakers": [
+        "Kirsten Hunter"
+      ],
+      "date": "03/07/2023",
+      "time": "11:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Monta tu propio ChatGPT!",
+      "speakers": [
+        "Javier Menendez Pallo"
+      ],
+      "date": "03/07/2023",
+      "time": "11:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Squeezing a go function",
+      "speakers": [
+        "Jesús Espino"
+      ],
+      "date": "03/07/2023",
+      "time": "11:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Calibrate Garbage Collection on the Ground and Run Your Java App in the Cloud",
+      "speakers": [
+        "Ana Maria Mihalceanu"
+      ],
+      "date": "03/07/2023",
+      "time": "12:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "CRDT and other new ideas for client-server communication",
+      "speakers": [
+        "Andrey Sitnik"
+      ],
+      "date": "03/07/2023",
+      "time": "12:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "AI is MagIA",
+      "speakers": [
+        "Juantomas Garcia"
+      ],
+      "date": "03/07/2023",
+      "time": "12:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Building modular libraries for 120 teams: our findings",
+      "speakers": [
+        "Fabio Pezzoni",
+        "Maksym Telepchuk"
+      ],
+      "date": "03/07/2023",
+      "time": "12:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Battling your Biased Brain",
+      "speakers": [
+        "Peter Wessels"
+      ],
+      "date": "03/07/2023",
+      "time": "12:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Entity Framework (Core) Unchained: Getting the Best Performance from Your ORM",
+      "speakers": [
+        "Dan Mallott"
+      ],
+      "date": "03/07/2023",
+      "time": "12:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Cómo hemos convertido una DB open source en un SaaS multi-tenant usando K8s",
+      "speakers": [
+        "Javier Ramirez"
+      ],
+      "date": "03/07/2023",
+      "time": "12:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Tips to fight impostor syndrome",
+      "speakers": [
+        "Aurélie Vache"
+      ],
+      "date": "03/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Core Web Vitals under control",
+      "speakers": [
+        "Marta Wiśniewska"
+      ],
+      "date": "03/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Securing Secrets in the GitOps era",
+      "speakers": [
+        "Alex Soto"
+      ],
+      "date": "03/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "The battle of the AI coding assistants",
+      "speakers": [
+        "Bouke Nijhuis"
+      ],
+      "date": "03/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Beneficios y dificultades que (quizá) no pensaste de usar Event-Sourcing.",
+      "speakers": [
+        "David Gomez G."
+      ],
+      "date": "03/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "A Healthy diet for your Java application",
+      "speakers": [
+        "Marharyta Nedzelska"
+      ],
+      "date": "03/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Three cups of Java",
+      "speakers": [
+        "Vincent Mayers"
+      ],
+      "date": "03/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Creating Psychologically Safe Engineering Teams",
+      "speakers": [
+        "Jessie Auguste"
+      ],
+      "date": "03/07/2023",
+      "time": "15:35"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Deserialization exploits in Java: why should I care?",
+      "speakers": [
+        "Brian Vermeer"
+      ],
+      "date": "03/07/2023",
+      "time": "15:35"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Extendiendo los microservicios al frontend: Microfrontends.",
+      "speakers": [
+        "Borja Roberto",
+        "Fernández Pareja"
+      ],
+      "date": "03/07/2023",
+      "time": "15:35"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Feature flags unleashed",
+      "speakers": [
+        "Roger Gros"
+      ],
+      "date": "03/07/2023",
+      "time": "15:35"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "A Monolith on the Dissecting Table: The Strangler Fig Pattern in Action",
+      "speakers": [
+        "Hans-Peter Grahsl"
+      ],
+      "date": "03/07/2023",
+      "time": "15:35"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Vertex AI: Pipelines for your MLOps workflows",
+      "speakers": [
+        "Marton Kodok"
+      ],
+      "date": "03/07/2023",
+      "time": "15:35"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Future of Service Mesh is Sidecar-less with Istio Ambient Mesh",
+      "speakers": [
+        "Lin Sun"
+      ],
+      "date": "03/07/2023",
+      "time": "15:35"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Build Automation: Reusing business logic wisely",
+      "speakers": [
+        "Òscar Manzano"
+      ],
+      "date": "03/07/2023",
+      "time": "17:05"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "The Cloud Native Compiler: JIT-as-a-Service",
+      "speakers": [
+        "Simon Ritter"
+      ],
+      "date": "03/07/2023",
+      "time": "17:05"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "How smart are smart contract languages?",
+      "speakers": [
+        "David Creer"
+      ],
+      "date": "03/07/2023",
+      "time": "17:05"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Stork: descubre servicios fácilmente y selecciona el mejor",
+      "speakers": [
+        "Aurea Munoz Hernandez"
+      ],
+      "date": "03/07/2023",
+      "time": "17:05"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Stop building APIs",
+      "speakers": [
+        "Peter van Vliet"
+      ],
+      "date": "03/07/2023",
+      "time": "17:05"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "No busques más, la solución esta en el feedback",
+      "speakers": [
+        "Josep Ma Rocamora Batalla",
+        "Elena Navarro Molina"
+      ],
+      "date": "03/07/2023",
+      "time": "17:05"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Beyond Tables and Bottlenecks: How We Joined High Volumes of Data in Real",
+      "speakers": [
+        "Emilia Ripeanu"
+      ],
+      "date": "03/07/2023",
+      "time": "17:05"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "JBang and the prisoner of the release",
+      "speakers": [
+        "Jordi Sola"
+      ],
+      "date": "03/07/2023",
+      "time": "17:05"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Sleep Soundly: Realiable Alerting with Unit Testing in Prometheus",
+      "speakers": [
+        "Ruben Cougil Grande"
+      ],
+      "date": "03/07/2023",
+      "time": "17:05"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Let’s have some effective REST!",
+      "speakers": [
+        "Mohamed Taman"
+      ],
+      "date": "03/07/2023",
+      "time": "18:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Understanding the Go Compiler",
+      "speakers": [
+        "Jesús Espino"
+      ],
+      "date": "03/07/2023",
+      "time": "18:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Understanding the Go Compiler",
+      "speakers": [
+        "Jesús Espino"
+      ],
+      "date": "03/07/2023",
+      "time": "18:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "What I learnt running in the artic: Lessons for leadership in engineering",
+      "speakers": [
+        "Marta Padilla Montoliu"
+      ],
+      "date": "03/07/2023",
+      "time": "18:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "The top 5 JavaScript issues in all our codebases",
+      "speakers": [
+        "Phil Nash"
+      ],
+      "date": "03/07/2023",
+      "time": "18:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Ya sé Machine Learning pero siento que no estoy preparada para el mundo real…",
+      "speakers": [
+        "Elena Tajadura Jiménez",
+        "Jorge Castro"
+      ],
+      "date": "03/07/2023",
+      "time": "18:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Reactive Java",
+      "speakers": [
+        "Joaquin Azcarate"
+      ],
+      "date": "03/07/2023",
+      "time": "18:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Github Actions a la carta",
+      "speakers": [
+        "José Fachal",
+        "Paulino Padial"
+      ],
+      "date": "03/07/2023",
+      "time": "18:10"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "How would eBPF enhance modern APM?",
+      "speakers": [
+        "Sheng Wu"
+      ],
+      "date": "04/07/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "How to avoid common pitfalls with modern microservices testing",
+      "speakers": [
+        "Eric Deandrea",
+        "Holly Cummins"
+      ],
+      "date": "04/07/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "From IL Weaving to Source Generators, the Realm story",
+      "speakers": [
+        "Ferdinando Papale"
+      ],
+      "date": "04/07/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Decentralizing with QR Codes",
+      "speakers": [
+        "Cody Zuschlag"
+      ],
+      "date": "04/07/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "GitOps for Reproducible Machine Learning",
+      "speakers": [
+        "Nir Barazida"
+      ],
+      "date": "04/07/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Java, Kotlin, Code Coverage and their best friend - bytecode: scandals, intrigues, investigations",
+      "speakers": [
+        "Evgeny Mandrikov"
+      ],
+      "date": "04/07/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "De la estrategia a la ejecución. ¿Qué significa realmente ser ágil?",
+      "speakers": [
+        "Alberto Tordesillas"
+      ],
+      "date": "04/07/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Jakarta EE! The future of enterprise application behind the myths.",
+      "speakers": [
+        "Alberto Salazar"
+      ],
+      "date": "04/07/2023",
+      "time": "10:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Virtual Threads in action!",
+      "speakers": [
+        "Dmitry Alexandrov"
+      ],
+      "date": "04/07/2023",
+      "time": "10:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "From Chaos to Order: How Angular Monorepos Can Simplify Your Codebase",
+      "speakers": [
+        "Patricio Vargas"
+      ],
+      "date": "04/07/2023",
+      "time": "10:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Using Data Sketches to extract fast & cheap insights from Big Data",
+      "speakers": [
+        "Alberto Camara"
+      ],
+      "date": "04/07/2023",
+      "time": "10:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Measuring the Cost of a GraphQL Query",
+      "speakers": [
+        "Marco Ippolito"
+      ],
+      "date": "04/07/2023",
+      "time": "10:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Developer Productivity Engineering: What's in it for me?",
+      "speakers": [
+        "Trisha Gee"
+      ],
+      "date": "04/07/2023",
+      "time": "10:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "OpenTelemetry 101",
+      "speakers": [
+        "Dimitris Finas"
+      ],
+      "date": "04/07/2023",
+      "time": "10:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "How to Become a Top-Performing Software Engineer through Real-World Open Source Practices",
+      "speakers": [
+        "Karina Varela"
+      ],
+      "date": "04/07/2023",
+      "time": "11:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Machine learning in the browser using TensorFlow.js",
+      "speakers": [
+        "Håkan Silfvernagel"
+      ],
+      "date": "04/07/2023",
+      "time": "11:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Towards Modern Development of Cloud Applications",
+      "speakers": [
+        "Robert Grandl"
+      ],
+      "date": "04/07/2023",
+      "time": "11:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "How do we use React Native at Mattermost. Architecture and design",
+      "speakers": [
+        "Daniel Espino Garcia"
+      ],
+      "date": "04/07/2023",
+      "time": "11:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Jakarta EE: Success comes with strong open source community",
+      "speakers": [
+        "Shabnam Mayel"
+      ],
+      "date": "04/07/2023",
+      "time": "11:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Human vs AI: How to ship secure code",
+      "speakers": [
+        "Joseph Katsioloudes"
+      ],
+      "date": "04/07/2023",
+      "time": "11:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Observability For Java Devs - 2023 Edition",
+      "speakers": [
+        "Ben Evans"
+      ],
+      "date": "04/07/2023",
+      "time": "11:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Comprehensive testing strategies for modern microservice architectures",
+      "speakers": [
+        "Adelina Simion"
+      ],
+      "date": "04/07/2023",
+      "time": "11:15"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Como implementar un cambio desde abajo con Digital Leaders",
+      "speakers": [
+        "Ruben Barcia"
+      ],
+      "date": "04/07/2023",
+      "time": "12:20"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Profiling your Java Application - A Beginner’s Guide",
+      "speakers": [
+        "Victor Rentea"
+      ],
+      "date": "04/07/2023",
+      "time": "12:20"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Lightning Fast E-Commerce: Remix your Shop with Shopify Hydrogen",
+      "speakers": [
+        "Alexa Spalato"
+      ],
+      "date": "04/07/2023",
+      "time": "12:20"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "OpenTelemetry for GitOps: Tracing Deployments from Git Commit to Production on K8s",
+      "speakers": [
+        "Andreas Grabner"
+      ],
+      "date": "04/07/2023",
+      "time": "12:20"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "How and why ($) to improve web performance in 2023",
+      "speakers": [
+        "Andrea Verlicchi"
+      ],
+      "date": "04/07/2023",
+      "time": "12:20"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Few-shot classification with contrasted learning",
+      "speakers": [
+        "Francesco Alessandro Massucci"
+      ],
+      "date": "04/07/2023",
+      "time": "12:20"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Maven Central++ What's happening at the core of the Java supply chain",
+      "speakers": [
+        "Steve Poole"
+      ],
+      "date": "04/07/2023",
+      "time": "12:20"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Revolutionizing Web Development with Astro Build: Leveraging Framework-Agnostic, Zero-JavaScript Opt",
+      "speakers": [
+        "Ruby Jane Cabagnot"
+      ],
+      "date": "04/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "One request at a time: Highly available and performant clusters of single threaded nodes",
+      "speakers": [
+        "Guillem Plasencia Gallofré",
+        "Mattia Tollari"
+      ],
+      "date": "04/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Enriching postal addresses with Elastic stack",
+      "speakers": [
+        "Philipp Krenn"
+      ],
+      "date": "04/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Tech Sherpas: 5 Keys for Effective Leadership",
+      "speakers": [
+        "Alvaro Moya"
+      ],
+      "date": "04/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Reducing the K8s pain for developers in a multi-cloud world",
+      "speakers": [
+        "Mauricio \"Salaboy\" Salatino"
+      ],
+      "date": "04/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Say goodbye to bugs and anti-patterns with Error Prone",
+      "speakers": [
+        "Rick Ossendrijver"
+      ],
+      "date": "04/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "The Go context package internals",
+      "speakers": [
+        "Damiano Petrungaro"
+      ],
+      "date": "04/07/2023",
+      "time": "14:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Practical Pipelines: A Houseplant Soil Alerting System with ksqlDB",
+      "speakers": [
+        "Danica Fine"
+      ],
+      "date": "04/07/2023",
+      "time": "15:25"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Secret Shortcuts of Loading Web Performance",
+      "speakers": [
+        "Nikola Mitrovic"
+      ],
+      "date": "04/07/2023",
+      "time": "15:25"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Secret Shortcuts of Loading Web Performance",
+      "speakers": [
+        "Nikola Mitrovic"
+      ],
+      "date": "04/07/2023",
+      "time": "15:25"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Manage memory in the JVM as if it were C",
+      "speakers": [
+        "Gonzalo Ortiz Jaureguizar"
+      ],
+      "date": "04/07/2023",
+      "time": "15:25"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Manage memory in the JVM as if it were C",
+      "speakers": [
+        "Gonzalo Ortiz Jaureguizar"
+      ],
+      "date": "04/07/2023",
+      "time": "15:25"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "The Need For Speed: Scaling Go Microservices",
+      "speakers": [
+        "Artur Kondas"
+      ],
+      "date": "04/07/2023",
+      "time": "15:25"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Serverless Java with Spring Boot",
+      "speakers": [
+        "Thomas Vitale"
+      ],
+      "date": "04/07/2023",
+      "time": "15:25"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Conseguimos migrar de Openshift a AWS EKS con near-zero downtime",
+      "speakers": [
+        "Javier Moreno",
+        "Barbara Teruggi"
+      ],
+      "date": "04/07/2023",
+      "time": "15:25"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Sustainable code",
+      "speakers": [
+        "Carlos Blé Jurado",
+        "Maria Soria Dura"
+      ],
+      "date": "04/07/2023",
+      "time": "15:25"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Welcome to the Jungle - A safari through the JVM landscape",
+      "speakers": [
+        "Gerrit Grunwald"
+      ],
+      "date": "04/07/2023",
+      "time": "17:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Major migrations made easy",
+      "speakers": [
+        "Tim te Beek"
+      ],
+      "date": "04/07/2023",
+      "time": "17:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Policy as Code: A Game-changer for Stack Security",
+      "speakers": [
+        "Raz Cohen"
+      ],
+      "date": "04/07/2023",
+      "time": "17:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "La legalidad en la Matrix",
+      "speakers": [
+        "Nadia Ujovich"
+      ],
+      "date": "04/07/2023",
+      "time": "17:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Una saga de infortunios de renderizado web",
+      "speakers": [
+        "Alba Silvente Fuentes"
+      ],
+      "date": "04/07/2023",
+      "time": "17:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "P3.express, the power of routine",
+      "speakers": [
+        "Elisabet Duocastella Pla"
+      ],
+      "date": "04/07/2023",
+      "time": "17:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "The Freedom of Kubernetes requires Chaos Engineering to shine in production",
+      "speakers": [
+        "Henrik Rexed"
+      ],
+      "date": "04/07/2023",
+      "time": "17:00"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Gentle Introduction to eBPF",
+      "speakers": [
+        "Ayesha Kaleem"
+      ],
+      "date": "04/07/2023",
+      "time": "17:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Improve team building in full-remote teams",
+      "speakers": [
+        "Marina Planells Guasch"
+      ],
+      "date": "04/07/2023",
+      "time": "17:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Embracing tRPC for Next-Level Typesafe API Development in Full-Stack TypeScript",
+      "speakers": [
+        "Devlin Duldulao"
+      ],
+      "date": "04/07/2023",
+      "time": "17:30"
+    },
+    {
+      "event_id": "devbcn-2023",
+      "title": "Corporate BigData: From Onpremise to Cloud on Applus+IDIADA",
+      "speakers": [
+        "Judit Pagès Vives"
+      ],
+      "date": "04/07/2023",
+      "time": "17:30"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "(Guitar) strings attached: from UTF-8 to EADGBE",
+      "speakers": [
+        "Hannes Lowette"
+      ],
+      "date": "30/08/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "ASP.NET Basics for Experts",
+      "speakers": [
+        "Layla Porter"
+      ],
+      "date": "30/08/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Applied AI and Accessibility to Play Games in New Ways",
+      "speakers": [
+        "Alex Dunn"
+      ],
+      "date": "30/08/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "A Practical Guide for Crafting Resilient UI Components",
+      "speakers": [
+        "Glenn Reyes"
+      ],
+      "date": "30/08/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Apache Kafka in 1 hour for C# Developers",
+      "speakers": [
+        "Guilherme Ferreira"
+      ],
+      "date": "30/08/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Part 1/2: Artisanal HTTP - or HTTP by hand",
+      "speakers": [
+        "Bjørn Einar Bjartnes"
+      ],
+      "date": "30/08/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Live Scores with Live Activities",
+      "speakers": [
+        "Fawkes Wei"
+      ],
+      "date": "30/08/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Is .NET any good for Audio ?",
+      "speakers": [
+        "Mark Heath"
+      ],
+      "date": "30/08/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Your code is just a detail",
+      "speakers": [
+        "Damian Brady"
+      ],
+      "date": "30/08/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Ethical Machine Learning",
+      "speakers": [
+        "Kesha Williams"
+      ],
+      "date": "30/08/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Automating the maintenance of thousands of components - Fleet management at Spotify",
+      "speakers": [
+        "Niklas Gustavsson"
+      ],
+      "date": "30/08/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Part 2/2: Artisanal HTTP - or HTTP by hand",
+      "speakers": [
+        "Bjørn Einar Bjartnes"
+      ],
+      "date": "30/08/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Space Flight in the 2020s",
+      "speakers": [
+        "Richard Campbell"
+      ],
+      "date": "30/08/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Rock Your Code: Code & App Performance for Microsoft .NET",
+      "speakers": [
+        "David McCarter"
+      ],
+      "date": "30/08/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "CSS :is(.awesome)",
+      "speakers": [
+        "Martine Dowden"
+      ],
+      "date": "30/08/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Automating Accessibility Assurance",
+      "speakers": [
+        "Sandi Barr"
+      ],
+      "date": "30/08/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Lightning Talks",
+      "speakers": [
+        "Hila Fish",
+        "Praveen Kottarathil",
+        "Dilek Akçay"
+      ],
+      "date": "30/08/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Part 1/2: Drawing for IT Architects",
+      "speakers": [
+        "Filip Van Laenen"
+      ],
+      "date": "30/08/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Part 1/2: Drawing for IT Architects",
+      "speakers": [
+        "Filip Van Laenen"
+      ],
+      "date": "30/08/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "GitHub + Azure: Better Together!",
+      "speakers": [
+        "April Edwards"
+      ],
+      "date": "30/08/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "The Modern Trolley Problem - Responsible AI Principles",
+      "speakers": [
+        "Michelle Sandford"
+      ],
+      "date": "30/08/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Crypto Heist: The Aftermath of a Government Website Cryptojacking Attack",
+      "speakers": [
+        "Scott Helme"
+      ],
+      "date": "30/08/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Caching the uncacheable: delivering personalized experiences without sacrificing performance",
+      "speakers": [
+        "Thijs Feryn"
+      ],
+      "date": "30/08/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Bounded Contexts: Manage the Understandability of Your Systems",
+      "speakers": [
+        "Gien Verschatse",
+        "Mathias Verraes"
+      ],
+      "date": "30/08/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Part 2/2: Drawing for IT Architects",
+      "speakers": [
+        "Filip Van Laenen"
+      ],
+      "date": "30/08/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Your website does not need JavaScript",
+      "speakers": [
+        "Amy Kapernick"
+      ],
+      "date": "30/08/2023",
+      "time": "16:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Backwards Compatible- Lessons from a Quarter Century in Software",
+      "speakers": [
+        "Anjuan Simmons"
+      ],
+      "date": "30/08/2023",
+      "time": "16:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Upgrade any .NET applications with the latest .NET stack.",
+      "speakers": [
+        "Olia Gavrysh"
+      ],
+      "date": "30/08/2023",
+      "time": "16:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Practical OpenTelemetry for .NET",
+      "speakers": [
+        "Martin Thwaites"
+      ],
+      "date": "30/08/2023",
+      "time": "16:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Carbon-Aware Computing: Measuring and Reducing the Carbon Intensity of Software",
+      "speakers": [
+        "Anders Lybecker"
+      ],
+      "date": "30/08/2023",
+      "time": "16:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Technical Writing as a Developer Superpower",
+      "speakers": [
+        "Erin McKean"
+      ],
+      "date": "30/08/2023",
+      "time": "16:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Evening Keynote",
+      "speakers": [
+        "Christer Fuglesang"
+      ],
+      "date": "30/08/2023",
+      "time": "18:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Architecting Apollo: Systems Design Lessons from the Golden Age of Spaceflight",
+      "speakers": [
+        "Kyle Kotowick"
+      ],
+      "date": "30/08/2023",
+      "time": "19:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "A Developer's Guide to Surviving Sh*t Project Management",
+      "speakers": [
+        "Jennifer Wadella"
+      ],
+      "date": "30/08/2023",
+      "time": "19:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Hacking the quarantine with Grafana & Electronics",
+      "speakers": [
+        "Yonatan Mevorach"
+      ],
+      "date": "30/08/2023",
+      "time": "19:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Hacking the quarantine with Grafana & Electronics",
+      "speakers": [
+        "Yonatan Mevorach"
+      ],
+      "date": "30/08/2023",
+      "time": "19:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Breaking the binary: Why organisations must embrace Quantum Computing now!",
+      "speakers": [
+        "Teena Idnani"
+      ],
+      "date": "30/08/2023",
+      "time": "20:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Space Awe",
+      "speakers": [
+        "Fabio Pacucci"
+      ],
+      "date": "30/08/2023",
+      "time": "20:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "A Cultural History of WinAmp ⚡️",
+      "speakers": [
+        "Anders Norås"
+      ],
+      "date": "30/08/2023",
+      "time": "20:45"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Developer Smackdown",
+      "speakers": [
+        "Selena Small",
+        "Michael Milewski"
+      ],
+      "date": "30/08/2023",
+      "time": "20:45"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Building a Podcast Client App in MAUI with Blazor",
+      "speakers": [
+        "Carl Franklin"
+      ],
+      "date": "31/08/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Variables of the Veracious Variety: How to Better Name your Variables",
+      "speakers": [
+        "Adrienne Braganza Tacke"
+      ],
+      "date": "31/08/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "You Keep Using That Word: Asynchronous And Interprocess Comms",
+      "speakers": [
+        "Sam Newman"
+      ],
+      "date": "31/08/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Optimize for the Cloud – Lightning-speed .NET Container Apps",
+      "speakers": [
+        "Martin Ullrich"
+      ],
+      "date": "31/08/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Modelling vs Reality",
+      "speakers": [
+        "Einar Høst"
+      ],
+      "date": "31/08/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Microsoft Exam Preps",
+      "speakers": [
+        "Michelle Sandford",
+        "George Coldham"
+      ],
+      "date": "31/08/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "You are doing logging in .NET wrong. Let’s fix it.",
+      "speakers": [
+        "Nick Chapsas"
+      ],
+      "date": "31/08/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Burn your idols : How to be a good role model.",
+      "speakers": [
+        "Magali Milbergue"
+      ],
+      "date": "31/08/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Introduction and pitfalls of Java's new concurrency model",
+      "speakers": [
+        "David Vlijmincx"
+      ],
+      "date": "31/08/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Modelling Durable IoT Workflows with Cloud-managed Finite State Machines",
+      "speakers": [
+        "Alina Dima"
+      ],
+      "date": "31/08/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Next generation microservices and serverless applications with WebAssembly and Spin",
+      "speakers": [
+        "Mikkel Mørk Hegnhøj"
+      ],
+      "date": "31/08/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Part 1/2: Permit to Cloud - Land with confidence in Azure",
+      "speakers": [
+        "Mike Benkovich"
+      ],
+      "date": "31/08/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "What’s Next in C#",
+      "speakers": [
+        "Mads Torgersen"
+      ],
+      "date": "31/08/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Large Language Models: An Overview and Integration into Your Workflow",
+      "speakers": [
+        "Ben Hall",
+        "Barbara Fusinska"
+      ],
+      "date": "31/08/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Git Hidden Gems",
+      "speakers": [
+        "Enrico Campidoglio"
+      ],
+      "date": "31/08/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "A People Pleaser's Guide to Salary Negotiation",
+      "speakers": [
+        "Colleen Lavin"
+      ],
+      "date": "31/08/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Developing software for Space with the Azure Orbital Space SDK",
+      "speakers": [
+        "Adam Stephensen"
+      ],
+      "date": "31/08/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Part 2/2: Permit to Cloud - Land with confidence in Azure",
+      "speakers": [
+        "Mike Benkovich"
+      ],
+      "date": "31/08/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "7 Things Technical Leaders can Learn from Disney Princesses",
+      "speakers": [
+        "Martin Mazur"
+      ],
+      "date": "31/08/2023",
+      "time": "12:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": ".NET gRPC - deep dive",
+      "speakers": [
+        "Irina Scurtu"
+      ],
+      "date": "31/08/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Part 1/2: Getting started with serverless WebAssembly",
+      "speakers": [
+        "Mikkel Mørk Hegnhøj"
+      ],
+      "date": "31/08/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "From Domain Boundaries to Software Architecture",
+      "speakers": [
+        "Maxime Sanglan-Charlier"
+      ],
+      "date": "31/08/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "You Shall Not Password: Modern Authentication for Web Apps",
+      "speakers": [
+        "Eli Holderness"
+      ],
+      "date": "31/08/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Combining the powers of Azure SWA and APIs",
+      "speakers": [
+        "Poornima Nayar"
+      ],
+      "date": "31/08/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Super Hero Layouts",
+      "speakers": [
+        "Anton Ball"
+      ],
+      "date": "31/08/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Driving Sustainability with Delivery Engineering",
+      "speakers": [
+        "Lesley Cordero"
+      ],
+      "date": "31/08/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Part 2/2: Getting started with serverless WebAssembly",
+      "speakers": [
+        "Mikkel Mørk Hegnhøj"
+      ],
+      "date": "31/08/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "How Work Works",
+      "speakers": [
+        "James Lewis"
+      ],
+      "date": "31/08/2023",
+      "time": "16:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Inventing Guitaraoke: A Tale of Tech, Bugs, and Rock'n'Roll.",
+      "speakers": [
+        "Dylan Beattie"
+      ],
+      "date": "31/08/2023",
+      "time": "16:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "(E)-Motions",
+      "speakers": [
+        "Dennie Declercq"
+      ],
+      "date": "31/08/2023",
+      "time": "16:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Correcting Common Async/Await Mistakes in .NET 8",
+      "speakers": [
+        "Brandon Minnick"
+      ],
+      "date": "31/08/2023",
+      "time": "16:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Fantus and Unreal",
+      "speakers": [
+        "Mattis Folkestad",
+        "Rune Røsting"
+      ],
+      "date": "31/08/2023",
+      "time": "16:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Keynote: Malignant Intelligence: Prompt engineering and software archeology",
+      "speakers": [
+        "Alasdair Allan"
+      ],
+      "date": "31/08/2023",
+      "time": "18:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Keynote: Malignant Intelligence: Prompt engineering and software archeology",
+      "speakers": [
+        "Alasdair Allan"
+      ],
+      "date": "31/08/2023",
+      "time": "18:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Guitaraoke: Live Guitar Karaoke!",
+      "speakers": [
+        "Dylan Beattie"
+      ],
+      "date": "31/08/2023",
+      "time": "19:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Beats in the Browser - Coding Music with JavaScript",
+      "speakers": [
+        "Rowdy Rabouw"
+      ],
+      "date": "31/08/2023",
+      "time": "19:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "From Metrics To Music: Making Connections with Apache Kafka",
+      "speakers": [
+        "Kris Jenkins"
+      ],
+      "date": "31/08/2023",
+      "time": "19:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Programming and Technology in Amateur Space Exploration",
+      "speakers": [
+        "Mads Wilson"
+      ],
+      "date": "31/08/2023",
+      "time": "19:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Rubiks Cube Geekout",
+      "speakers": [
+        "Robert Friberg"
+      ],
+      "date": "31/08/2023",
+      "time": "19:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "What Anime Taught Me About K8s & Tech Careers",
+      "speakers": [
+        "Annie Talvasto"
+      ],
+      "date": "31/08/2023",
+      "time": "20:10"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Shrink The Web: How To Get Happier By Removing Crap",
+      "speakers": [
+        "Lemon 🍋"
+      ],
+      "date": "31/08/2023",
+      "time": "20:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Learn to Say \"No!\" Without Being a Jerk",
+      "speakers": [
+        "Christina Aldan"
+      ],
+      "date": "31/08/2023",
+      "time": "20:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Making Art with JavaScript and Garbage",
+      "speakers": [
+        "Colleen Lavin"
+      ],
+      "date": "31/08/2023",
+      "time": "20:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "A Brief History of Computer Music",
+      "speakers": [
+        "Anders Norås"
+      ],
+      "date": "31/08/2023",
+      "time": "20:30"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Black Holes: The Most Powerful Energy Sources in the Universe",
+      "speakers": [
+        "Fabio Pacucci"
+      ],
+      "date": "31/08/2023",
+      "time": "21:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Non-English Programming with Hedy",
+      "speakers": [
+        "Felienne Hermans"
+      ],
+      "date": "01/09/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "IaC Forged in Code: ARM/Bicep vs Terraform vs Pulumi",
+      "speakers": [
+        "Mike Benkovich"
+      ],
+      "date": "01/09/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Architecture Modernization: Aligning Software, Strategy, and Structure",
+      "speakers": [
+        "Nick Tune"
+      ],
+      "date": "01/09/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "How to use Chrome DevTools to improve accessibility of your webpage",
+      "speakers": [
+        "Dominika Zając"
+      ],
+      "date": "01/09/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Part 1/2: Securing your .NET application software supply-chain, the practical approach!",
+      "speakers": [
+        "Niels Tanis"
+      ],
+      "date": "01/09/2023",
+      "time": "09:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Predicting F1 Race Strategies using ML.NET",
+      "speakers": [
+        "Michał Łusiak"
+      ],
+      "date": "01/09/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Extend Your Kubernetes With the Power of Open Source",
+      "speakers": [
+        "Annie Talvasto"
+      ],
+      "date": "01/09/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Incident Management - Talk the Talk, Walk the Walk",
+      "speakers": [
+        "Hila Fish"
+      ],
+      "date": "01/09/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Part 2/2: Securing your .NET application software supply-chain, the practical approach!",
+      "speakers": [
+        "Niels Tanis"
+      ],
+      "date": "01/09/2023",
+      "time": "10:20"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "What's new in C#? Exciting new features in C# 9, 10 and 11!",
+      "speakers": [
+        "Filip Ekberg"
+      ],
+      "date": "01/09/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Why Data Science and UX Research should be Best Friends",
+      "speakers": [
+        "Grishma Jena"
+      ],
+      "date": "01/09/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Comprehensive testing strategies for modern microservice architectures",
+      "speakers": [
+        "Adelina Simion"
+      ],
+      "date": "01/09/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Down the Oregon Trail with Functional C#",
+      "speakers": [
+        "Simon Painter"
+      ],
+      "date": "01/09/2023",
+      "time": "11:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Deep Learning: From Vision to Reality",
+      "speakers": [
+        "Tess Ferrandez-Norlander"
+      ],
+      "date": "01/09/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "SLSA, SigStore, SBOM and Software Supply Chain Security. What does that all mean really ?",
+      "speakers": [
+        "Abdel Sghiouar"
+      ],
+      "date": "01/09/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "The Survival Guide To Being A Junior Engineer",
+      "speakers": [
+        "Fatima Taj"
+      ],
+      "date": "01/09/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "MS Exams Prep",
+      "speakers": [
+        "Michelle Sandford",
+        "George Coldham"
+      ],
+      "date": "01/09/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Part 1/2: Learning Natural Language Processing with Python",
+      "speakers": [
+        "Grishma Jena"
+      ],
+      "date": "01/09/2023",
+      "time": "13:40"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Project Management for Engineers",
+      "speakers": [
+        "Michelle Brenner"
+      ],
+      "date": "01/09/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "Part 2/2: Learning Natural Language Processing with Python",
+      "speakers": [
+        "Grishma Jena"
+      ],
+      "date": "01/09/2023",
+      "time": "15:00"
+    },
+    {
+      "event_id": "cphdevfest-2023",
+      "title": "How JavaScript Happened: A Short History of Programming Languages",
+      "speakers": [
+        "Mark Rendle"
+      ],
+      "date": "01/09/2023",
+      "time": "16:20"
     }
   ]
 }

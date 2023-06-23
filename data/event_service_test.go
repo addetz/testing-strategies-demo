@@ -1,11 +1,69 @@
 package data_test
 
 import (
+	"errors"
 	"testing"
 
 	"github.com/addetz/testing-strategies-demo/data"
 	"github.com/stretchr/testify/assert"
 )
+
+func TestNewEventService(t *testing.T) {
+	events := []data.Event{
+		{
+			ID: "event-1",
+		},
+	}
+	talks := []data.Talk{
+		{
+			EventID: "event-1",
+			Title:   "event 1 talk 1",
+		},
+	}
+	t.Run("successful initialisation", func(t *testing.T) {
+		es, err := data.NewEventService(events, talks)
+		assert.Nil(t, err)
+		assert.NotNil(t, es)
+	})
+
+	t.Run("nil events", func(t *testing.T) {
+		es, err := data.NewEventService(nil, talks)
+		assert.Nil(t, es)
+		assert.Equal(t, data.ErrEventServiceInitialisation, err)
+	})
+
+	t.Run("nil talks", func(t *testing.T) {
+		es, err := data.NewEventService(events, nil)
+		assert.Nil(t, es)
+		assert.Equal(t, data.ErrEventServiceInitialisation, err)
+	})
+}
+
+func TestGetEvents(t *testing.T) {
+	events := []data.Event{
+		{
+			ID: "event-1",
+		},
+		{
+			ID: "event-2",
+		},
+		{
+			ID: "event-3",
+		},
+	}
+	es, err := data.NewEventService(events, []data.Talk{})
+	assert.Nil(t, err)
+	assert.NotNil(t, es)
+
+	t.Run("get events", func(t *testing.T) {
+		fetched := es.GetEvents()
+		assert.Len(t, fetched.Events, len(events))
+		for _, e := range events {
+			assert.Contains(t, fetched.Events, e)
+		}
+	})
+
+}
 
 func TestGetEvent(t *testing.T) {
 	events := []data.Event{
@@ -39,7 +97,9 @@ func TestGetEvent(t *testing.T) {
 		},
 	}
 
-	es := data.NewEventService(events, talks)
+	es, err := data.NewEventService(events, talks)
+	assert.Nil(t, err)
+	assert.NotNil(t, es)
 
 	t.Run("multiple talks", func(t *testing.T) {
 		ev, err := es.GetEvent("event-1")
@@ -69,7 +129,68 @@ func TestGetEvent(t *testing.T) {
 	})
 }
 
-func TestGetFilteredTalks(t *testing.T) {
+func TestGetEventTalks(t *testing.T) {
+	eventID := "event-1"
+	events := []data.Event{
+		{
+			ID: eventID,
+		},
+		{
+			ID: "event-2",
+		},
+	}
+
+	talks := []data.Talk{
+		{
+			EventID: eventID,
+			Title:   "event 1 talk 1",
+		},
+		{
+			EventID: eventID,
+			Title:   "event 1 talk 2",
+			Date:    "01/01/2010",
+		},
+	}
+
+	es, err := data.NewEventService(events, talks)
+	assert.Nil(t, err)
+	assert.NotNil(t, es)
+
+	testCases := map[string]struct {
+		eventID       string
+		expectedTalks []data.Talk
+		expectedErr   error
+	}{
+		"multiple talks": {
+			eventID:       eventID,
+			expectedTalks: talks[0:2],
+		},
+		"empty talks": {
+			eventID:       "event-2",
+			expectedTalks: []data.Talk{},
+		},
+		"invalid event": {
+			eventID:     "invalid-event",
+			expectedErr: errors.New("no event for id invalid-event"),
+		},
+	}
+	for name, tc := range testCases {
+		t.Run(name, func(t *testing.T) {
+			talks, err := es.GetEventTalks(tc.eventID)
+			if tc.expectedErr != nil {
+				assert.Nil(t, talks)
+				assert.Equal(t, tc.expectedErr, err)
+				return
+			}
+			assert.Nil(t, err)
+			assert.Len(t, talks.Talks, len(tc.expectedTalks))
+			for i, expectedTalk := range tc.expectedTalks {
+				assert.Equal(t, expectedTalk, talks.Talks[i])
+			}
+		})
+	}
+}
+func TestGetEventFilteredTalks(t *testing.T) {
 	eventID := "event-1"
 	events := []data.Event{
 		{
@@ -97,27 +218,60 @@ func TestGetFilteredTalks(t *testing.T) {
 		},
 	}
 
-	es := data.NewEventService(events, talks)
+	es, err := data.NewEventService(events, talks)
+	assert.Nil(t, err)
+	assert.NotNil(t, es)
 
-	t.Run("multiple talks", func(t *testing.T) {
-		talks, err := es.GetFilteredTalks(eventID, 1)
-		assert.Nil(t, err)
-		assert.Len(t, talks.Talks, 2)
-		assert.Equal(t, "event 1 talk 1", talks.Talks[0].Title)
-		assert.Equal(t, "event 1 talk 2", talks.Talks[1].Title)
-	})
-
-	t.Run("last day", func(t *testing.T) {
-		talks, err := es.GetFilteredTalks(eventID, 2)
-		assert.Nil(t, err)
-		assert.Len(t, talks.Talks, 1)
-		assert.Equal(t, "event 1 talk 3", talks.Talks[0].Title)
-	})
-
-	t.Run("day after end", func(t *testing.T) {
-		expectedErr := "filtered date 03/01/2010 is after event end date 02/01/2010"
-		talks, err := es.GetFilteredTalks(eventID, 3)
-		assert.Nil(t, talks)
-		assert.Equal(t, expectedErr, err.Error())		
-	})
+	testCases := map[string]struct {
+		eventID       string
+		day           int
+		expectedTalks []data.Talk
+		expectedErr   error
+	}{
+		"multiple talks": {
+			eventID:       eventID,
+			day:           1,
+			expectedTalks: talks[0:2],
+		},
+		"last day": {
+			eventID:       eventID,
+			day:           2,
+			expectedTalks: []data.Talk{talks[2]},
+		},
+		"day after end": {
+			eventID:     eventID,
+			day:         3,
+			expectedErr: errors.New("filtered date 03/01/2010 is after event end date 02/01/2010"),
+		},
+		"invalid event": {
+			eventID:     "invalid-event",
+			day:         1,
+			expectedErr: errors.New("no event for id invalid-event"),
+		},
+		"negative day": {
+			eventID:     eventID,
+			day:         -1,
+			expectedErr: errors.New("day must be > 1, but was -1"),
+		},
+		"zero day": {
+			eventID:     eventID,
+			day:         0,
+			expectedErr: errors.New("day must be > 1, but was 0"),
+		},
+	}
+	for name, tc := range testCases {
+		t.Run(name, func(t *testing.T) {
+			talks, err := es.GetEventFilteredTalks(tc.eventID, tc.day)
+			if tc.expectedErr != nil {
+				assert.Nil(t, talks)
+				assert.Equal(t, tc.expectedErr, err)
+				return
+			}
+			assert.Nil(t, err)
+			assert.Len(t, talks.Talks, len(tc.expectedTalks))
+			for i, expectedTalk := range tc.expectedTalks {
+				assert.Equal(t, expectedTalk, talks.Talks[i])
+			}
+		})
+	}
 }

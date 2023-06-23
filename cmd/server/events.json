@@ -15,13 +15,6 @@
       "location": "Barcelona"
     },
     {
-      "id": "gopherconuk-2023",
-      "name": "GopherCon UK",
-      "date_start": "16/08/2023",
-      "date_end": "18/08/2023",
-      "location": "London"      
-    },
-    {
       "id": "cphdevfest-2023",
       "name": "Copenhagen Developers Festival",
       "date_start": "30/08/2023",
