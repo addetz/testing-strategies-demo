@@ -46,3 +46,5 @@ You can tag and push the image to your own repo as well:
 $ docker tag conf-talks-server username/conf-talks-server
 $ docker push username/conf-talks-server
 ```
+
+Testing CI 
