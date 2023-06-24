@@ -1,0 +1,72 @@
+{
+	"info": {
+		"_postman_id": "ff9742e3-20fe-40d5-9514-160d689601f3",
+		"name": "Conference Talks",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3912352"
+	},
+	"item": [
+		{
+			"name": "GET /events",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/events",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"events"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET /events/{id}",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/events/ewit-2023",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"events",
+						"ewit-2023"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET /events/{id}?day=X",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/events/ewit-2023?day=2",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"events",
+						"ewit-2023"
+					],
+					"query": [
+						{
+							"key": "day",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
