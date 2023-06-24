@@ -1,4 +1,4 @@
-name: Run tests on all branches
+name: Run tests on main
 on: 
   push:
     branches:
