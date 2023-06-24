@@ -1,8 +1,8 @@
 name: Run tests on all branches
-  workflow_run:
-    workflows: Run tests on all branches
-    branches: main
-    types: completed
+on: 
+  push:
+    branches:
+      - main
 
 jobs:
   integration:
