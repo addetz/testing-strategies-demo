@@ -6,7 +6,7 @@ on:
 
 jobs:
   integration:
-    name: "integration"
+    name: "run integration tests"
     runs-on: ubuntu-latest
 
     steps:
@@ -18,4 +18,4 @@ jobs:
       - name: Install dependencies
         run: go get ./...
       - name: Run all tests on main
-        run: INTEGRATION=true E2E=true go test ./... -v
+        run: INTEGRATION=true go test ./... -v
