@@ -6,6 +6,7 @@ import (
 
 	"github.com/addetz/testing-strategies-demo/data"
 	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 )
 
 func TestNewEventService(t *testing.T) {
@@ -62,7 +63,6 @@ func TestGetEvents(t *testing.T) {
 			assert.Contains(t, fetched.Events, e)
 		}
 	})
-
 }
 
 func TestGetEvent(t *testing.T) {
@@ -126,6 +126,32 @@ func TestGetEvent(t *testing.T) {
 		assert.Nil(t, ev)
 		assert.NotNil(t, err)
 		assert.Equal(t, "no event for id event-99", err.Error())
+	})
+}
+
+func FuzzGetEvent(f *testing.F) {
+	eventID := "event-1"
+	events := []data.Event{
+		{
+			ID: eventID,
+		},
+	}
+	f.Add("event 1 talk1")
+	f.Add("Comprehensive testing strategies for modern microservice architectures")
+	f.Fuzz(func(t *testing.T, name string) {
+		talks := []data.Talk{
+			{
+				EventID: eventID,
+				Title:   name,
+			},
+		}
+		es, err := data.NewEventService(events, talks)
+		assert.Nil(t, err)
+		assert.NotNil(t, es)
+		ev, err := es.GetEvent(eventID)
+		require.Nil(t, err)
+		assert.Len(t, ev.Talks, 1)
+		assert.Equal(t, name, talks[0].Title)
 	})
 }
 
