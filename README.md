@@ -1,5 +1,5 @@
 # testing-strategies-demo
-This repo contains the demo code for the talk `Comprehensive testing strategies for modern microservice architectures`. 
+This repo contains the demo code for the talk `Comprehensive testing strategies for modern microservice architectures`. Slides are also available [here](./slides/).
 
 It contains code for the conference talk server, which exposes the following endpoints: 
 ```
