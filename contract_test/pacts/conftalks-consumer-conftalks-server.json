@@ -1,9 +1,9 @@
 {
   "consumer": {
-    "name": "Consumer"
+    "name": "ConfTalks-Consumer"
   },
   "provider": {
-    "name": "ConfTalks"
+    "name": "ConfTalks-Server"
   },
   "interactions": [
     {

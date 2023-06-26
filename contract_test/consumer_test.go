@@ -12,9 +12,9 @@ import (
 	"github.com/stretchr/testify/require"
 )
 
-func TestConsumerIndex_Local(t *testing.T) {
+func TestConsumerEvents(t *testing.T) {
 	if os.Getenv("CONTRACT") == "" {
-		t.Skip("Skipping TestConsumerIndex_Local in short mode.")
+		t.Skip("Skipping TestConsumerEvents in short mode.")
 	}
 	expectedEvents := []data.Event{
 		{
@@ -42,14 +42,14 @@ func TestConsumerIndex_Local(t *testing.T) {
 
 	// Initialize
 	pact := dsl.Pact{
-		Consumer: "Consumer",
-		Provider: "ConfTalks",
+		Consumer: PACT_CONSUMER_NAME,
+		Provider: PACT_PROVIDER_NAME,
 	}
 	pact.Setup(true)
 
-	// Test case - makes the call to the provider
+	// Test case - makes the call to the mock provider
 	var test = func() (err error) {
-		url := fmt.Sprintf("%s:%d/events", "http://localhost", pact.Server.Port)
+		url := fmt.Sprintf("http://%s:%d/events", pact.Host, pact.Server.Port)
 		req, err := http.NewRequest("GET", url, nil)
 		assert.Nil(t, err)
 		req.Header.Set("Content-Type", "application/json")

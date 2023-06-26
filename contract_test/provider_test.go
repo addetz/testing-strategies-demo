@@ -13,15 +13,15 @@ import (
 	"github.com/testcontainers/testcontainers-go/wait"
 )
 
-const PACTS_PATH = "./pacts/consumer-conftalks.json"
 
-func TestProviderIndex_Local(t *testing.T) {
+func TestProviderEvents(t *testing.T) {
 	if os.Getenv("CONTRACT") == "" {
-		t.Skip("Skipping TestProviderIndex_Local in short mode.")
+		t.Skip("Skipping TestProviderEvents in short mode.")
 	}
+
 	// Initialize
 	pact := dsl.Pact{
-		Provider: "ConfTalksServer",
+		Provider: "ConfTalks-Server",
 	}
 	pact.Setup(true)
 
@@ -45,6 +45,16 @@ func TestProviderIndex_Local(t *testing.T) {
 	require.Nil(t, err)
 
 	// Verify
+	if os.Getenv("REMOTE") != "" {
+		_, err = pact.VerifyProvider(t, types.VerifyRequest{
+			ProviderBaseURL: url,
+			BrokerURL:       os.Getenv("PACT_BROKER_BASE_URL"),
+			BrokerToken:     os.Getenv("PACT_BROKER_TOKEN"),
+			ProviderVersion: os.Getenv("version"),
+		})
+		require.Nil(t, err)
+		return
+	}
 	_, err = pact.VerifyProvider(t, types.VerifyRequest{
 		ProviderBaseURL: url,
 		PactURLs:        []string{PACTS_PATH},

@@ -1,4 +1,4 @@
-name: Run tests on main
+name: Run unit & integration tests on main
 on: 
   push:
     branches:
