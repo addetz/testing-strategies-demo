@@ -59,9 +59,9 @@ func TestGetEventsIntegration(t *testing.T) {
 	}
 }
 
-func TestGetEventTalksIntegration(t *testing.T) {
+func TestGetEventIntegration(t *testing.T) {
 	if os.Getenv("INTEGRATION") == "" {
-		t.Skip("Skipping TestGetEventTalksIntegration in short mode.")
+		t.Skip("Skipping TestGetEventIntegration in short mode.")
 	}
 	eventID := "event-1"
 	events := []data.Event{
