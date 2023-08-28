@@ -1,8 +1,12 @@
 module github.com/addetz/testing-strategies-demo
 
-go 1.19
+go 1.21
 
-require github.com/stretchr/testify v1.8.4
+require (
+	github.com/docker/go-connections v0.4.0
+	github.com/stretchr/testify v1.8.4
+	github.com/testcontainers/testcontainers-go v0.21.0
+)
 
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
@@ -12,7 +16,6 @@ require (
 	github.com/cpuguy83/dockercfg v0.3.1 // indirect
 	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker v24.0.2+incompatible // indirect
-	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
@@ -31,7 +34,6 @@ require (
 	github.com/opencontainers/runc v1.1.5 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
-	github.com/testcontainers/testcontainers-go v0.21.0 // indirect
 	golang.org/x/exp v0.0.0-20230510235704-dd950f8aeaea // indirect
 	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sys v0.8.0 // indirect
